@@ -1,4 +1,5 @@
 Global Food Production Trends Analysis (1961–2023)
+
 📝 Project Overview
 Conducted by ABC Company, this project is a comprehensive data analysis of global agricultural trends over a 62-year period. Using Power BI, the study transforms raw agricultural data into actionable insights, focusing on staple grains, commercial crops like coffee and tea, and major fruit categories.
 
