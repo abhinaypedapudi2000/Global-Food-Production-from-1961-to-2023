@@ -1,6 +1,7 @@
 Global Food Production Trends Analysis (1961–2023)
 
 📝 Project Overview
+
 Conducted by ABC Company, this project is a comprehensive data analysis of global agricultural trends over a 62-year period. Using Power BI, the study transforms raw agricultural data into actionable insights, focusing on staple grains, commercial crops like coffee and tea, and major fruit categories.
 
 The analysis provides a strategic roadmap for understanding food security, regional production dominance, and historical growth patterns in the agricultural sector.
@@ -27,6 +28,7 @@ Coffee (Green): Africa identified as a leading producer, followed closely by Asi
 Grapes lead the fruit category in total volume, followed by apples and bananas. | Fruit | Total Production (1961-2023) | | :--- | :--- | | Grapes | 30 Billion Tonnes | | Apples | 25 Billion Tonnes | | Bananas | 23 Billion Tonnes | | Oranges | 21 Billion Tonnes |
 
 📊 Visualizations (Scenarios)
+
 The Power BI dashboard is organized into eight specific analytical scenarios:
 
 Rice & Wheat Totals: High-level KPI cards showing cumulative global volume.
@@ -44,6 +46,7 @@ Maize Evolution: A Donut Chart illustrating the distribution of maize production
 Fruit Comparison: Comparative bar charts ranking global fruit popularity by weight.
 
 🛠️ Tools Used
+
 Power BI Desktop: For data modeling, DAX calculations, and interactive visualization.
 
 Data Source: Historical agricultural records (1961–2023).
@@ -51,6 +54,7 @@ Data Source: Historical agricultural records (1961–2023).
 Data Transformation: Power Query for cleaning regional entities and normalizing production tonnes.
 
 📈 Strategic Value
+
 This project enables ABC Company to:
 
 Identify emerging markets based on regional production growth.
